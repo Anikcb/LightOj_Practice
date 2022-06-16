@@ -1,1 +1,1 @@
-# LightOj_Practice
+- [Names for Babies](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Names%20for%20Babies.cpp)
