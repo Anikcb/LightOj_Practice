@@ -1,1 +1,2 @@
 - [Names for Babies](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Names%20for%20Babies.cpp)
+- [Aladdin and the Magical Lamp](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Aladdin%20and%20the%20Magical%20Lamp.cpp)
