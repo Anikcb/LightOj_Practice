@@ -1,3 +1,5 @@
 - [Names for Babies](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Names%20for%20Babies.cpp)
 - [Aladdin and the Magical Lamp](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Aladdin%20and%20the%20Magical%20Lamp.cpp)
 - [Melody Comparison](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Melody%20Comparison.cpp)
+- [Josephus Problem](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Josephus%20Problem.cpp)
+- [Josephus Problem(2)](https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Josephus%20Problem(2).cpp)
